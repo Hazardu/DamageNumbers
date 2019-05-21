@@ -1,0 +1,18 @@
+<Mod ID="DamageNumbers">
+  <Compatible>1.09</Compatible>
+  <Button Standard="LWin" ID="OpenCustomization">
+    <Name>
+      <EN>Open Customization</EN>
+    </Name>
+    <Description>
+      <EN>You might want to change the default key</EN>
+    </Description>
+  </Button>
+  <Name>
+    <EN>Damage Numbers</EN>
+  </Name>
+  <Description>
+    <EN>Do not get offended pls</EN>
+  </Description>
+  <Version>1.2</Version>
+</Mod>
